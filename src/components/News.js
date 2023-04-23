@@ -9,6 +9,7 @@ export class News extends Component {
             loading: false,
             page:1
         }
+        // temp 
 
     }
     async componentDidMount(){
