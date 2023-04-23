@@ -58,13 +58,13 @@ export class News extends Component {
                 <h2>News Monkey - Top Headlines</h2>
                 <div className="row">
                     <div className="col-md-4">
-                        <NewsItem title = "something" description = "some news discription" imageUrl=""/>
+                        <NewsItem title = "something" description = "some news discription" imageUrl="" newsUrl="todo"/>
                     </div>
                     <div className="col-md-4">
-                        <NewsItem title = "something" description = "some news discription" imageUrl=""/>
+                        <NewsItem title = "something" description = "some news discription" imageUrl="" newsUrl="todo"/>
                     </div>
                     <div className="col-md-4">
-                        <NewsItem title = "something" description = "some news discription" imageUrl=""/>
+                        <NewsItem title = "something" description = "some news discription" imageUrl="" newsUrl="todo"/>
                     </div>
                 </div>
             </div>
