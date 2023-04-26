@@ -1,25 +1,8 @@
-import React, { Component } from 'react'
+import React from 'react'
 import logo from "./logo4.png";
 import { Link } from 'react-router-dom';
 
-export class NavBar extends Component {
-    constructor(props) {
-        super(props);
-        this.state = {value: ''};
-    
-        this.handleChange = this.handleChange.bind(this);
-        this.handleSubmit = this.handleSubmit.bind(this);
-      }
-    
-      handleChange(event) {
-        this.setState({value: event.target.value});
-      }
-    
-      handleSubmit(event) {
-        event.preventDefault();
-        
-      }
-    render() {
+const NavBar=()=>{
         return (
             <div>
                 <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -41,16 +24,15 @@ export class NavBar extends Component {
                             <li className="nav-item"><Link className="nav-link" to="/sports">Sports</Link></li>
                             <li className="nav-item"><Link className="nav-link" to="/technology">Technology</Link></li>
                         </ul>
-                        <form className="d-flex" role="search"> 
+                        {/* <form className="d-flex" role="search"> 
                             <input value={this.state.value} onChange={this.handleChange} className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
                             <button onClick={this.handleSubmit} className="btn btn-success" type="submit">Search</button>
-                        </form>
+                        </form> */}
                         </div>
                     </div>
                     </nav>
             </div>
         )
-    }
 }
 
 export default NavBar
