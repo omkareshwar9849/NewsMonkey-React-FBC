@@ -14,13 +14,11 @@ const News = (props) => {
     const [loading, setLoading] = useState(true)
     const [page, setPage] = useState(1)
     const [totalResults, setTotalResults] = useState(0)
-    // document.title = `${props.category.charAt(0).toUpperCase() + props.category.slice(1)}-News Monkey`;
 
     const updateNews = async () => {
         props.setProgress(10);
         setLoading(true)
         let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
-        setPage(page + 1)
         props.setProgress(30);
         let data = await fetch(url);
         let parsedData = await data.json();
@@ -32,7 +30,9 @@ const News = (props) => {
     }
 
     useEffect(() => {
+        document.title = `${props.category.charAt(0).toUpperCase() + props.category.slice(1)}-News Monkey`;
         updateNews();
+        // eslint-disable-next-line
     }, [])
 
     // const handlePrevClick = async () => {
@@ -46,8 +46,8 @@ const News = (props) => {
     // }
 
     const fetchMoreData = async () => {
+        let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pageSize=${props.pageSize}`;
         setPage(page + 1)
-        let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
         let data = await fetch(url);
         let parsedData = await data.json();
         setArticles(articles.concat(parsedData.articles))
@@ -57,7 +57,7 @@ const News = (props) => {
 
     return (
         <>
-            <div className="container d-flex justify-content-center">
+            <div className="container d-flex justify-content-center " style={{ marginTop: '90px' }}>
                 <img src={logo} style={{ height: '100px' }} alt="" />
                 <h1 className='text-center' style={{ margin: '40px 0px' }}>News Monkey - Top {props.category.charAt(0).toUpperCase() + props.category.slice(1)} Headlines</h1>
             </div>
@@ -86,20 +86,18 @@ const News = (props) => {
                 </div> */}
         </>
     )
+}
+News.defaultProps = {
+    country: 'in',
+    pageSize: 12,
+    category: 'general'
+}
 
+News.propTypes = {
+    country: PropTypes.string,
+    pageSize: PropTypes.number,
+    category: PropTypes.string
 
-    News.defaultProps = {
-        country: 'in',
-        pageSize: 12,
-        category: 'general'
-    }
-
-    News.propTypes = {
-        country: PropTypes.string,
-        pageSize: PropTypes.number,
-        category: PropTypes.string
-
-    }
 }
 
 export default News

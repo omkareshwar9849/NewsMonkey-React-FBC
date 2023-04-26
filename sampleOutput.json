@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Pia Singh",
+      "title": "Stocks making the biggest moves premarket: Activision Blizzard, Chipotle, First Republic Bank & more  CNBC",
+      "description": "First Republic Bank shares dropped, fueling its potential to again weigh on the broader banking sector. Other regional bank stocks rose before the bell.",
+      "url": "https://www.cnbc.com/2023/04/26/stocksmakingthebiggestmovespremarketatvicmgfrc.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107210798167906855720230317t135606z_1344895251_rc21vz9clcdl_rtrmadp_0_globalbanksusaadeyemo.jpeg?v=1682511576&w=1920&h=1080",
+      "publishedAt": "20230426T12:19:36Z",
+      "content": "Check out the companies making headlines before the bell on Wednesday.\r\nEnphase Energy The solar inverter company slid 16% after reporting disappointing revenue guidance for the second quarter. The c… [+4628 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Radina Gigova,Steven Jiang,Nectar Gan",
+      "title": "Chinese President Xi Jinping speaks with Ukraine's Zelensky for first time since Russia's invasion  CNN",
+      "description": "Ukrainian President Volodymyr Zelensky spoke Wednesday with Chinese President Xi Jinping, Moscow's most important diplomatic partner, in the first phone call between the two leaders since the start of Russia's invasion.",
+      "url": "https://www.cnn.com/2023/04/26/europe/xijinpingzelenskyphonecallintl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230314112728xizelenskysplit.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "20230426T12:06:00Z",
+      "content": "Ukrainian President Volodymyr Zelensky spoke Wednesday with Chinese President Xi Jinping, Moscows most important diplomatic partner, in the first phone call between the two leaders since the start of… [+2286 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": null,
+      "title": "How Seasonal Allergies Affect Our Bodies and Brains  Psychology Today",
+      "description": "Allergies may cause a variety of health and cognitive problems.",
+      "url": "https://www.psychologytoday.com/gb/blog/howmybrainworks/202304/howseasonalallergiesaffectourbodiesandbrains",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/202304/allergyg42e6ce947_1920.jpg?itok=jZFa0nUq",
+      "publishedAt": "20230426T11:47:26Z",
+      "content": "Spring is a beautiful season when all nature is rebirthing. After the dark and cold days of winter when dominant colors are white and shades of grey, we love to see our nature starting to bloom in a … [+5302 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "NFL Mock Draft 2023: Rams, Titans trade into first round for QB, Eagles take RB in 'what teams SHOULD do' mock  CBS Sports",
+      "description": "It's draft week and here's what we think teams should do",
+      "url": "https://www.cbssports.com/nfl/draft/news/nflmockdraft2023qbsgo124eaglestakebijanrobinsontop10inwhatteamsshoulddomock/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/18/2625dad739644cfaacf9331fdb260c9c/thumbnail/1200x675/ee06011636dba077b3699226d9ee2ad4/bijanrobinson11400us.jpg",
+      "publishedAt": "20230426T11:30:00Z",
+      "content": "It's been nearly eight months since the start of the 2022 college football season, and with just days to go before the 2023 NFL Draft, I'm doing something a little different in this penultimate mock … [+1505 chars]"
+    },
+    {
+      "source": {
+        "id": "theverge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft's Activision Blizzard acquisition blocked by UK regulators  The Verge",
+      "description": "The UK’s Competition and Markets Authority has blocked Microsoft’s Activision Blizzard acquisition. Concerns over cloud gaming have not been addressed by Microsoft effectively, says the CMA.",
+      "url": "https://www.theverge.com/2023/4/26/23689252/microsoftactivisionblizzardacquisitionblockedukcma",
+      "urlToImage": "https://cdn.voxcdn.com/thumbor/GalKF0fR2wjfO31X1lrEiIQFVtA=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.voxcdn.com/uploads/chorus_asset/file/23926022/acastro_STK048_01.jpg",
+      "publishedAt": "20230426T11:15:34Z",
+      "content": "Microsofts Activision Blizzard acquisition blocked by UK regulators\r\nMicrosofts Activision Blizzard acquisition blocked by UK regulators\r\n / Microsofts $68.7 billion deal hits a major hurdle over clo… [+5369 chars]"
+    },
+    {
+      "source": {
+        "id": "theverge",
+        "name": "The Verge"
+      },
+      "author": "Dan Seifert",
+      "title": "GM killed the Chevy Bolt — and the dream of a small, affordable EV  The Verge",
+      "description": "GM’s decision to kill the Chevy Bolt comes as the automaker is gearing up to make a bunch of huge, hulking electric trucks and SUVs. Here’s why the Bolt will be missed.",
+      "url": "https://www.theverge.com/2023/4/26/23697911/gmdiscontinuedchevyboltsmallaffordableev",
+      "urlToImage": "https://cdn.voxcdn.com/thumbor/g5guNsqXz2E8HB8wuAzR1OrSv4w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.voxcdn.com/uploads/chorus_asset/file/24610164/236634_Chevy_Bolt_Discontinue_WJoel.jpg",
+      "publishedAt": "20230426T11:00:00Z",
+      "content": "It appears that Chevrolets lowly entrylevel EV was too good for this world.\r\nIf youve shopped around for an EV in the past couple of years, youve probably encountered a bit of sticker shock. Theres … [+9703 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Mike Calia",
+      "title": "5 things to know before the stock market opens Wednesday  CNBC",
+      "description": "Here are the most important news items that investors need to start their trading day.",
+      "url": "https://www.cnbc.com/2023/04/26/5thingstoknowbeforethestockmarketopenswednesdayapril26.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/1071904881675802590794gettyimages1246870736AFP_338Q79L.jpeg?v=1682505908&w=1920&h=1080",
+      "publishedAt": "20230426T10:45:08Z",
+      "content": "Here are the most important news items that investors need to start their trading day:\r\n1. Hump day\r\nStocks fell pretty hard Tuesday as investors wondered whether another banking crisis could be in t… [+3740 chars]"
+    },
+    {
+      "source": {
+        "id": "aljazeeraenglish",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Ousted Sudanese President Omar alBashir held at army hospital  Al Jazeera English",
+      "description": "Former leader moved out of prison during heavy fighting as other exofficials escaped during a jailbreak amid the chaos.",
+      "url": "https://www.aljazeera.com/news/2023/4/26/oustedsudanesepresidentomaralbashirheldatarmyhospital",
+      "urlToImage": "https://www.aljazeera.com/wpcontent/uploads/2020/04/42a1bf4169a94c13b29a419406429a31_18.jpeg?resize=1200%2C675",
+      "publishedAt": "20230426T10:39:20Z",
+      "content": "Deposed Sudanese President Omar alBashir is being held at a military hospital in Khartoum after fighting between the army and paramilitary Rapid Support Forces (RSF) broke out and engulfed the priso… [+3162 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Wayne Sterling",
+      "title": "New York Jets general manager calls Aaron Rodgers deal 'historic' for the franchise  CNN",
+      "description": "New York Jets general manager Joe Douglas called the deal to acquire fourtime NFL MVP Aaron Rodgers from the Green Bay Packers \"historic\" for the franchise.",
+      "url": "https://www.cnn.com/2023/04/26/sport/aaronrodgersjoedouglasnewyorkjetsnflsptintl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230426093607aaronrodgersfile2023restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "20230426T10:20:00Z",
+      "content": "New York Jets general manager Joe Douglas called the deal to acquire fourtime NFL MVP Aaron Rodgers from the Green Bay Packers historic for the franchise. \r\nDouglas spoke Tuesday on how the trade wh… [+2356 chars]"
+    },
+    {
+      "source": {
+        "id": "cbsnews",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "8 bodies found dumped in Mexican resort of Cancun as authorities search for missing people  CBS News",
+      "description": "The bodies were found as police looked in wooded lots and even sinkhole ponds known as cenotes.",
+      "url": "https://www.cbsnews.com/news/8bodiescancunmexicansearchmissingpeople/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/26/7b06ad0631ee4df2946fab2950444c2f/thumbnail/1200x630/4b2e5a487b7649dd539e7a0329b0590c/20230407t224425z334602969rc2s90a5vgqqrtrmadp3religioneastermexicobeaches.jpg",
+      "publishedAt": "20230426T10:14:03Z",
+      "content": "Authorities in the Mexican resort of Cancun said Tuesday they are trying to identify eight bodies found dumped in the Caribbean resort.\r\nSpeaking to families of missing people, Oscar Montes de Oca, t… [+3622 chars]"
+    },
+    {
+      "source": {
+        "id": "associatedpress",
+        "name": "Associated Press"
+      },
+      "author": "Aamer Madhani",
+      "title": "US to dock nuclear subs in SKorea for 1st time in 40 years  The Associated Press",
+      "description": "President Joe Biden and South Korean President Yoon Suk Yeol are set to sign an agreement that includes plans to have US nucleararmed submarines make dock visits in South Korea for the first time in more than 40 years. The visits are a key element in deterri…",
+      "url": "https://apnews.com/article/bidenyoonsouthkoreanuclearsubmarinesagreement8f1e003990cb434afa0980707e471396",
+      "urlToImage": "https://storage.googleapis.com/afsprod/media/9a231ba70d2c4138b223ab21f8418e68/3000.jpeg",
+      "publishedAt": "20230426T10:02:42Z",
+      "content": "WASHINGTON (AP) Presidents Joe Biden and Yoon Suk Yeol on Wednesday will sign an agreement that includes plans to have U.S. nucleararmed submarines dock in South Korea for the first time in more tha… [+5737 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Betsy Klein,Kylie Atwood",
+      "title": "Biden rolls out red carpet for South Korea's Yoon with state visit and new cooperation against North Korea's nuclear threat  CNN",
+      "description": "President Joe Biden welcomes South Korea President Yoon Suk Yeol to the White House for the full pomp and circumstance and hospitality of an official state visit  a highstakes meeting amid ongoing provocations from North Korea, China's growing influence in…",
+      "url": "https://www.cnn.com/2023/04/26/politics/bidenyoonsouthkoreastatevisit/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/23042520270501yoonstatevisitdiplomacy.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "20230426T10:00:00Z",
+      "content": "President Joe Biden welcomes South Korea President Yoon Suk Yeol to the White House for the full pomp and circumstance and hospitality of an official state visit a highstakes meeting amid ongoing pr… [+9851 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/mariellamoon",
+      "title": "Beats Studio Buds+ leak on Amazon with a May 18th release date | Engadget  Engadget",
+      "description": "MacRumors spotted an Amazon listing that showed images and details for Apple's Beats Studio Buds+ — the page even allowed customers to preorder the earbuds until it was yanked offline..",
+      "url": "https://www.engadget.com/beatsstudiobudsleakonamazonwithamay18threleasedate091639570.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/gP2crGO5235WlAW8JtSefg~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg/https://mediambstpubue1.s3.amazonaws.com/creatruploadedimages/202304/d71767a0e40811edade52f185ffd3c47.cf.jpg",
+      "publishedAt": "20230426T09:18:37Z",
+      "content": "Beats might release its nextgen Studio Buds model on May 18th. MacRumors spotted an Amazon listing that showed images and details for Apple's Beats Studio Buds+ the page even allowed customers to pr… [+1587 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Alex Woodward",
+      "title": "Tucker Carlson receives a job offer from Russian state TV after Fox News firing  The Independent",
+      "description": "Putinlinked propagandists troll American media with their bid for the ousted farright pundit’s attention",
+      "url": "https://www.independent.co.uk/news/world/americas/tuckercarlsonrussianstatetvjobofferb2327099.html",
+      "urlToImage": "https://static.independent.co.uk/2023/04/25/22/1139127476.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "20230426T09:01:53Z",
+      "content": "Sign up to our Evening Headlines email for your daily guide to the latest news\r\nSign up to our free US Evening Headlines email\r\nIt didnt take long for Tucker Carlson to land a job offer after losing … [+4392 chars]"
+    },
+    {
+      "source": {
+        "id": "theverge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "Samsung's Galaxy Z Fold 5 could be far thinner while folded  The Verge",
+      "description": "Physical dimensions of Samsung’s upcoming foldable, the Galaxy Z Fold 5, have leaked, suggesting it’ll be thinner and lighter than its predecessor.",
+      "url": "https://www.theverge.com/2023/4/26/23698748/samsunggalaxyzfold5weightdimensionsleak",
+      "urlToImage": "https://cdn.voxcdn.com/thumbor/JAYLendy9H6aAxAEsV6ugYLvKT4=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.voxcdn.com/uploads/chorus_asset/file/23949711/DSC03413_resized.jpg",
+      "publishedAt": "20230426T08:28:33Z",
+      "content": "Samsungs Galaxy Z Fold 5 could be far thinner while folded\r\nSamsungs Galaxy Z Fold 5 could be far thinner while folded\r\n / A reliable tipster has leaked the dimensions of the upcoming foldable, which… [+2156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Amanda Macias, Gabriel Cortés",
+      "title": "Russia renews threats of abandoning the Black Sea Grain Initiative, the UNbacked deal that helped reopen Ukraine’s ports  CNBC",
+      "description": "The Black Sea Grain Initiative, which may expire next month, has helped address the mounting food crisis triggered in part by Russia's war.",
+      "url": "https://www.cnbc.com/2023/04/26/russiarenewsthreatsofabandoningtheblackseagraininitiative.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/1071331571665577245419gettyimages1243909186AFP_32L92KL.jpeg?v=1682492331&w=1920&h=1080",
+      "publishedAt": "20230426T06:58:51Z",
+      "content": "UNITED NATIONS The basic food security of tens of millions across the globe is hanging by a thread as Russia mulls whether it will preserve a deal that has permitted Ukrainian grain to move through t… [+2381 chars]"
+    },
+    {
+      "source": {
+        "id": "thewashingtonpost",
+        "name": "The Washington Post"
+      },
+      "author": "Kelsey Ables",
+      "title": "Washington state bans sale of assault weapons including AR15s  The Washington Post",
+      "description": "Gov. Jay Inslee signed the bill into law, making Washington the 10th state with restrictions on such firearms.",
+      "url": "https://www.washingtonpost.com/nation/2023/04/25/washingtonstateassaultweaponsbanguns/",
+      "urlToImage": "https://www.washingtonpost.com/wpapps/imrs.php?src=https://arcanglerfishwashpostprodwashpost.s3.amazonaws.com/public/VLZBSWCROOQDBC54F6MLRSRB64_sizenormalized.jpg&w=1440",
+      "publishedAt": "20230426T06:32:00Z",
+      "content": "Comment on this story\r\nComment\r\nWashington state on Tuesday banned sales of assault weapons, including the AR15, which has been used in some of the deadliest mass shootings in the United States.\r\nGo… [+3917 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vulture"
+      },
+      "author": "Charu Sinha",
+      "title": "John Stamos Had 11Month Olsen Twins Fired from Full House  Vulture",
+      "description": "John Stamos revealed on a podcast that he had the 11monthold Olsen twins fired from Full House for screaming too loudly. They were later rehired.",
+      "url": "http://www.vulture.com/2023/04/johnstamoshad11montholsentwinsfiredfromfullhouse.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/2be/ced/638f396d05dbf804f11471dd046041945ejohnstamos.1x.rsocial.w1200.jpg",
+      "publishedAt": "20230426T06:02:57Z",
+      "content": "In news that is both wholly surprising and unsurprising, John Stamos apparently had beef with the toddlerage Olsen twins, he revealed on an episode of the Good Guys podcast this week. He described d… [+1072 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "Mike Singer",
+      "title": "Nikola Jokic’s Game 5 tripledouble ousts TWolves as Nuggets advance to second round  The Denver Post",
+      "description": "Nikola Jokic bullied Minnesota’s frontcourt for five consecutive points with under a minute left to seize Tuesday’s contest and oust the Timberwolves into a long, cold offseason.",
+      "url": "https://www.denverpost.com/2023/04/25/nuggetstimberwolvesgame5winnikolajokic/",
+      "urlToImage": "https://www.denverpost.com/wpcontent/uploads/2023/04/TDPLNUGGETSTWOLVES_AAO4688xx.jpg?w=1024&h=658",
+      "publishedAt": "20230426T04:11:25Z",
+      "content": "A slow, savage smile swept across Nikola Jokics face.\r\nTired of getting scratched and clawed at the hands of the feisty Timberwolves, Jokic grinned at officials knowing his dramatic Game 5 tripledou… [+4594 chars]"
+    },
+    {
+      "source": {
+        "id": "foxnews",
+        "name": "Fox News"
+      },
+      "author": "Greg Gutfeld",
+      "title": "GREG GUTFELD: Biden was elected four years ago and we're still battling for the soul of America  Fox News",
+      "description": "Fox News host Greg Gutfeld unpacks President Joe Biden's 2024 reelection campaign video and looks back at some of his campaign promises from four years ago on 'Gutfeld!'",
+      "url": "https://www.foxnews.com/opinion/greggutfeldbidenelectedfouryearsagostillbattlingsoulamerica",
+      "urlToImage": "https://cfimages.useast1.prod.boltdns.net/v1/static/694940094001/545e68ca2d6c46a6991b45075564a797/85cc2eb01ac14dddad264d79bd7ca2b8/1280x720/match/image.jpg",
+      "publishedAt": "20230426T03:53:33Z",
+      "content": "Happy Tuesday, everybody. We're only about 82 days away from the next presidential election. So what a coincidence that an 80yearold officially announced he's running today. An ambitious move from … [+5450 chars]"
+    }
+  ]
+}
