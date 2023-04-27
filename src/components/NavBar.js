@@ -24,10 +24,10 @@ const NavBar=()=>{
                             <li className="nav-item"><Link className="nav-link" to="/sports">Sports</Link></li>
                             <li className="nav-item"><Link className="nav-link" to="/technology">Technology</Link></li>
                         </ul>
-                        {/* <form className="d-flex" role="search"> 
-                            <input value={this.state.value} onChange={this.handleChange} className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-                            <button onClick={this.handleSubmit} className="btn btn-success" type="submit">Search</button>
-                        </form> */}
+                        <form className="d-flex" role="search"> 
+                            <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+                            <button className="btn btn-danger" type="submit">Search</button>
+                        </form>
                         </div>
                     </div>
                     </nav>
