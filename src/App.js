@@ -13,11 +13,13 @@ import LoadingBar from 'react-top-loading-bar'
 const App = () => {
   const pageSize = 9;
   const apiKey = 'a682755cdef4446f8ce9809ebc373979'
-  const [progress, setProgress] = useState(0)
+  const [progress, setProgress] = useState(0);
+  const [search, setSearch] = useState(false);
+  const [searchVal , setSearchVal] = useState("");
   return (
     <div>
       <Router>
-        <NavBar />
+        <NavBar search={search} setSearch={setSearch} searchVal={searchVal} setSearchVal={setSearchVal}/>
         <LoadingBar
           color='#f11946'
           progress={progress}
